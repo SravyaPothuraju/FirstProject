@@ -2,3 +2,5 @@
 a+b
 #Subtraction
 a-b
+#multiplication
+a*b
